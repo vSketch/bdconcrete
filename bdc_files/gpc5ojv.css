@@ -1,0 +1,50 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * indivisible:
+ *   - http://typekit.com/eulas/00000000000000007735eeb8
+ *   - http://typekit.com/eulas/00000000000000007735eebc
+ *   - http://typekit.com/eulas/00000000000000007735eebb
+ *   - http://typekit.com/eulas/00000000000000007735eeb6
+ *   - http://typekit.com/eulas/00000000000000007735eec2
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-03-15 20:00:39 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=gpc5ojv&ht=tk&f=48821.48825.48827.48829.48830&a=39147234&app=typekit&e=css");
+
+@font-face {
+font-family:"indivisible";
+src:url("https://use.typekit.net/af/dc1f1b/00000000000000007735eeb8/30/l?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/dc1f1b/00000000000000007735eeb8/30/d?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/dc1f1b/00000000000000007735eeb8/30/a?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("https://use.typekit.net/af/51a05d/00000000000000007735eebc/30/l?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/51a05d/00000000000000007735eebc/30/d?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/51a05d/00000000000000007735eebc/30/a?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("https://use.typekit.net/af/9e7dcb/00000000000000007735eebb/30/l?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9e7dcb/00000000000000007735eebb/30/d?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9e7dcb/00000000000000007735eebb/30/a?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("https://use.typekit.net/af/92f8dc/00000000000000007735eeb6/30/l?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/92f8dc/00000000000000007735eeb6/30/d?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/92f8dc/00000000000000007735eeb6/30/a?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"indivisible";
+src:url("https://use.typekit.net/af/a71dc5/00000000000000007735eec2/30/l?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/a71dc5/00000000000000007735eec2/30/d?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/a71dc5/00000000000000007735eec2/30/a?primer=595f311a3501a7e46c82f818d06d00feb59d9bc75057e545dc80e0ab12e01e23&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+.tk-indivisible { font-family: "indivisible",sans-serif; }
